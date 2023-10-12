@@ -1,0 +1,30 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+}
+
+
+.description {
+    color: #555;
+}
+
+
+#title {
+    color: #2c3e50;
+}
+
+
+a:hover {
+    color: red;
+}
+
+.section {
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 1px solid #e0e0e0;
+}
+
+
